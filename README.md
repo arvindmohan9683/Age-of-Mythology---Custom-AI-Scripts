@@ -1,4 +1,4 @@
-# Age-of-Mythology---Custom-AI-Scripts
+# Age-of-Mythology - Custom-AI-Scripts
 Basic AI Scripts
 
 Steps to run:

@@ -1,5 +1,5 @@
 
-Basic AI Scripts
+Age of Mythology AI Scripts
 
 Steps to run:
 
